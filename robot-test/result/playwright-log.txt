@@ -1,0 +1,83 @@
+{"level":30,"time":"2022-09-19T17:15:02.524Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Listening on 49945"}
+{"level":30,"time":"2022-09-19T17:15:02.603Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:02.604Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:02.607Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-09-19T17:15:03.248Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-09-19T17:15:03.263Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method newContext"}
+{"level":30,"time":"2022-09-19T17:15:03.295Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-09-19T17:15:03.311Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Trace file: "}
+{"level":30,"time":"2022-09-19T17:15:03.321Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-09-19T17:15:03.347Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method newContext"}
+{"level":30,"time":"2022-09-19T17:15:03.349Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-09-19T17:15:03.365Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-09-19T17:15:03.868Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-09-19T17:15:03.868Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-09-19T17:15:03.908Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-09-19T17:15:03.910Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:03.923Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:03.925Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-09-19T17:15:03.945Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method goTo"}
+{"level":30,"time":"2022-09-19T17:15:03.948Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:03.948Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='username'] in page."}
+{"level":30,"time":"2022-09-19T17:15:03.994Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:03.997Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:03.997Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='password'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.002Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.004Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.004Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='firstname'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.011Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.013Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.013Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='lastname'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.018Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.020Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.020Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='phone'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.024Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.026Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-19T17:15:04.026Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //input[@type='submit' and @value='Register'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.124Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-09-19T17:15:04.127Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.127Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='username'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.149Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.151Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.151Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //input[@type='password' and @id='password'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.154Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method fillText"}
+{"level":30,"time":"2022-09-19T17:15:04.156Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-09-19T17:15:04.156Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //input[@type='submit' and @value='Log In'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.247Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-09-19T17:15:04.253Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.253Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //td[@id= 'username'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.267Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Retrieved text for element //td[@id= 'username'] containing Abbas1"}
+{"level":30,"time":"2022-09-19T17:15:04.267Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.270Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.270Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='firstname'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.274Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Retrieved text for element //*[@id='firstname'] containing Tomiwa"}
+{"level":30,"time":"2022-09-19T17:15:04.274Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.275Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.275Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='lastname'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.278Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Retrieved text for element //*[@id='lastname'] containing Kwaku"}
+{"level":30,"time":"2022-09-19T17:15:04.278Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.279Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.279Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with //*[@id='phone'] in page."}
+{"level":30,"time":"2022-09-19T17:15:04.282Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Retrieved text for element //*[@id='phone'] containing +5363797737"}
+{"level":30,"time":"2022-09-19T17:15:04.282Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getText"}
+{"level":30,"time":"2022-09-19T17:15:04.283Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.283Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.284Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.285Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.286Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-09-19T17:15:04.286Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-19T17:15:04.286Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-09-19T17:15:04.287Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.288Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-09-19T17:15:04.288Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-19T17:15:04.289Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-19T17:15:04.289Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-09-19T17:15:04.289Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-09-19T17:15:04.290Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-09-19T17:15:04.290Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changing current active page"}
+{"level":30,"time":"2022-09-19T17:15:04.290Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-09-19T17:15:04.291Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-09-19T17:15:04.298Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Removed page=34779b7e-66f4-4056-9f14-eaaa8824a6b4 from context=fa932e70-64cd-4939-b4a9-e0475384d7b9 page stack"}
+{"level":30,"time":"2022-09-19T17:15:04.305Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-09-19T17:15:04.316Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-09-19T17:15:04.467Z","pid":97414,"hostname":"Onikepos-MacBook-Air.local","msg":"End of node method closeAllBrowsers"}

@@ -1,0 +1,4 @@
+# Locator
+username_field:         "//input[@name= 'username' and @id= 'username']"
+pwd_field:              "//input[@type='password' and @id='password']"
+login_button:           "//input[@type='submit' and @value='Log In']"

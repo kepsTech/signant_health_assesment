@@ -1,0 +1,21 @@
+# Locators
+username_field:         "//*[@id='username']"
+password_field:         "//*[@id='password']"
+firstname_field:        "//*[@id='firstname']"
+lastname_field:         "//*[@id='lastname']"
+mobileNum_field:        "//*[@id='phone']"
+registration_button:    "//input[@type='submit' and @value='Register']"
+
+# Placeholder
+already_registered:     "//div[@class='flash' and contains(text(), 'already registered.')]"
+
+
+# Test Data
+username:       wizkid
+password:       Ayo123
+firstname:      Ayo
+lastname:       Balogun
+mobileNum:      +358012345666
+
+username_2:       testing
+mobileNum_2:      +358012345666

@@ -1,0 +1,5 @@
+# locators
+username_locator:        "//td[@id= 'username']"
+firstname_locator:       "//*[@id='firstname']"
+lastname_locator:        "//*[@id='lastname']"
+phone_locator:           "//*[@id='phone']"
